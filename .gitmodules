@@ -1,0 +1,7 @@
+[submodule "tmk_keyboard"]
+	path = tmk_keyboard
+	url = git@github.com:shabao-studio/tmk_keyboard.git
+[submodule "ChibiOS"]
+	path = ChibiOS
+	url = git@github.com:shabao-studio/ChibiOS.git
+	branch = stable_17.6.x 
