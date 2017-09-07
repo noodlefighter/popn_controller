@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.1253766352/C_INCLUDE_PATH/delimiter=;
+environment/project/0.1253766352/C_INCLUDE_PATH/operation=replace
+environment/project/0.1253766352/C_INCLUDE_PATH/value=A\:\\msys64\\usr\\include;A\:\\msys64\\usr\\include\\w32api;A\:\\msys64\\usr\\lib\\gcc\\x86_64-pc-msys\\4.9.2\\include;A\:\\msys64\\usr\\lib\\gcc\\x86_64-pc-msys\\4.9.2\\include-fixed
+environment/project/0.1253766352/MINGW_HOME/delimiter=;
+environment/project/0.1253766352/MINGW_HOME/operation=replace
+environment/project/0.1253766352/MINGW_HOME/value=A\:\\MinGW
+environment/project/0.1253766352/PATH/delimiter=;
+environment/project/0.1253766352/PATH/operation=replace
+environment/project/0.1253766352/PATH/value=A\:\\cli_tools\\gnu_arm_embedded\\5.4_2016q2\\bin;A\:\\MinGW\\bin;A\:\\msys64\\usr\\bin;C\:\\cygwin64\\bin
+environment/project/0.1253766352/append=true
+environment/project/0.1253766352/appendContributed=true
